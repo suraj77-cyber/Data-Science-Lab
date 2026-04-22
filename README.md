@@ -17,12 +17,10 @@ Data-Science-Lab-Work/
 │ └── Lab6_KNN_Classification
 │
 ├── Intermediate Project/
-│ ├── student_analysis.ipynb
-│ ├── student-mat.csv
-│ └── README.md
+│ ├── House_Prices.rar
 │
 ├── Fun project/
-│ ├── number_guessing_game.py
+│ ├── Word_Scramble.py
 │ └── README.md
 │
 └── README.md
@@ -47,7 +45,7 @@ These labs cover the core concepts of Python and Data Science:
 - Data visualization 📊  
 - Correlation analysis  
 - Linear Regression model 🤖  
-- Predicting student final grades  
+- Predicting House prices
 
 ---
 
